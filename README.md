@@ -1,3 +1,22 @@
+# adapt to any social account profile page,post url,video url,playlist url or hashtags
+
+https://github.com/microlinkhq/youtube-dl-exec
+
+https://github.com/krunder/yt-dlp-wrapper
+
+# show video metadata
+
+# show audio metadata
+
+https://github.com/Borewit/music-metadata
+
+# add more video editing template
+
+audio extract
+audio
+
+video to images
+
 # inthistweet
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/okikio/inthistweet)
@@ -11,8 +30,8 @@
 ![in-this-tweet light logo](public/logo-full-light.svg#gh-light-mode-only)
 ![in-this-tweet dark logo](public/logo-full-dark.svg#gh-dark-mode-only)
 
-✨ Futuristic ✨ twitter image, gif and video downloader. 
-Enter a Tweet URL, click search, and download the image/videos in it to share, create a meme, and/or to store, the world is your oyester. 
+✨ Futuristic ✨ twitter image, gif and video downloader.
+Enter a Tweet URL, click search, and download the image/videos in it to share, create a meme, and/or to store, the world is your oyester.
 
 > **Note**: You can download images and videos for gallary tweets, quote tweets, normal image and video posts and even the preview images for links, [inthistweet.app](https://inthistweet.app) can handle it all.
 
