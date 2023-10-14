@@ -5,7 +5,7 @@ from TwitterSpaces2Text.Extractor import Extractor
 extractor = Extractor()
 extractor.getCaption("1YqGopyVqkvJv")
 
-
+https://github.com/HitomaruKonpaku/twspace-crawler
 
 
 # adapt to any social account profile page,post url,video url,playlist url or hashtags
