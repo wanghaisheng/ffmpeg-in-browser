@@ -1,3 +1,13 @@
+add support to twitter spaces
+
+
+from TwitterSpaces2Text.Extractor import Extractor
+extractor = Extractor()
+extractor.getCaption("1YqGopyVqkvJv")
+
+
+
+
 # adapt to any social account profile page,post url,video url,playlist url or hashtags
 
 https://github.com/microlinkhq/youtube-dl-exec
